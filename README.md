@@ -2,4 +2,4 @@
 :computer: Sou Analista de Desenvolvimento de Sistemas!
 
 ## Sobre mim
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/ricardo-felipe-redin/)]( https://www.linkedin.com/in/ricardo-felipe-redin/)
+(https://www.linkedin.com/in/ricardo-felipe-redin/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]
